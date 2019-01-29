@@ -1,4 +1,4 @@
-from Tkinter import *
+from tkinter import *
 
 def show_entry_field():
      print("Enter your massage:%s\n Your  encrypted message is:%s\n Enter your message:%s\n Your decrypted message is:%s\n"%(e1.get(),e2.get(),e3.get(),e4.get()))
